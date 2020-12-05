@@ -18,7 +18,7 @@ Their definition for that license is the following:
 - Can you remix, transform or modify the icon?: Yes
 - Can you share the remixed, transformed or modified icons?: Yes
 - Do you have to indicate if changes were made?: No
-- Can you use the icon for commercial use?<sup>[1]</sup>: No
+- Can you use the icon for commercial use?<sup>[1](#iconfinder-1)</sup>: No
 - Can you resell the icon as part of a template?: No
 - Do you have to credit the designer?: No
 - Do you have to provide a link to the license?: No
@@ -26,5 +26,4 @@ Their definition for that license is the following:
 - Can you use the icon as part of a logo?: No
 - Can you use a modified version of the icon as part of a logo?: No
 
-<a name="iconfinder-1">1</a> What does commercial use mean?
-Commercial use refers to income-generating use of any kind, whether direct or indirect.
+<sup><a name="iconfinder-1">1</a></sup> Commercial use refers to income-generating use of any kind, whether direct or indirect.
