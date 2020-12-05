@@ -10,13 +10,17 @@
 
 Type `username` in the Alfred bar (in most cases typing `us` will be enough) and hit enter.
 
-<div style="text-align:center"><img src="screenshot-input.png" alt="Triggering the workflow" /></div>.
+<p align="center">
+    <img src="screenshot-input.png" alt="Triggering the workflow" />
+</p>
 
 A random username consisting of a random word and a number between 10 and 2020 will be generated and copied to the clipboard.
 
 A notification displaying the generated username will be shown allowing you an easy preview. If you don’t like the generated username, you can trigger the workflow again to generate another one.
 
-<div style="text-align:center"><img src="screenshot-notification.png" alt="Notification with generated username" /></div>.
+<p align="center">
+    <img src="screenshot-notification.png" alt="Notification with generated username" />
+</p>.
 
 ### License
 
